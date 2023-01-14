@@ -1,0 +1,11 @@
+@import url("https://fonts.google.com/specimen/Josefin+Sans");
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family:"Josefin Sans";
+}
+
